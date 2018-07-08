@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.flipkart.FlipkartTest" duration-ms="9456" started-at="2018-07-08T07:57:15Z" finished-at="2018-07-08T07:57:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9456" started-at="2018-07-08T07:57:15Z" finished-at="2018-07-08T07:57:25Z">
+      <class name="com.flipkart.FlipkartTest">
+        <test-method status="PASS" signature="IniatiatingBrowsertest()[pri:0, instance:com.flipkart.FlipkartTest@6b143ee9]" name="IniatiatingBrowsertest" duration-ms="9428" started-at="2018-07-08T07:57:15Z" finished-at="2018-07-08T07:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IniatiatingBrowsertest -->
+      </class> <!-- com.flipkart.FlipkartTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.flipkart.FlipkartTest -->
+</testng-results>
